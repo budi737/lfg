@@ -1,2 +1,0 @@
-# lfg
-tea OSS Project
